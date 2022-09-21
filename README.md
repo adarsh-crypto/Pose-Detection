@@ -4,9 +4,7 @@ Here I have created a basic pose detection model using tf and tf hub libraries
 Make sure you have tf and tf-hub installed in your pc
 
 
-
-
-![Untitled video - Made with Clipchamp](https://user-images.githubusercontent.com/60354744/191565378-7bf837f5-d54e-4934-a834-1f2ca4641272.gif)
+(https://user-images.githubusercontent.com/60354744/191565378-7bf837f5-d54e-4934-a834-1f2ca4641272.gif)
 
 
 
