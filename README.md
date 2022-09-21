@@ -20,4 +20,5 @@ $ pip install tf-nightly
 # For Tensorflow-HUB
 
 $ pip install "tensorflow>=2.0.0"
+
 $ pip install --upgrade tensorflow-hub
