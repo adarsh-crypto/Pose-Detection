@@ -5,7 +5,8 @@ Make sure you have tf and tf-hub installed in your pc
 
 
 
-![Uploading Untitled video - Made with Clipchamp.gif…]()
+
+![Untitled video - Made with Clipchamp](https://user-images.githubusercontent.com/60354744/191565378-7bf837f5-d54e-4934-a834-1f2ca4641272.gif)
 
 
 
