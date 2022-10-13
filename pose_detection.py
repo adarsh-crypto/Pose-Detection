@@ -6,7 +6,7 @@ import numpy as np
 
 
 # Download the model from TF Hub.
-model = hub.load('https://tfhub.dev/google/movenet/singlepose/thunder/3')
+model = hub.load('https://tfhub.dev/google/movenet/singlepose/thunder/4')
 movenet = model.signatures['serving_default']
 
 # Threshold for 
